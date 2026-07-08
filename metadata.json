@@ -1,0 +1,6 @@
+{
+  "name": "Prism Market",
+  "description": "A high-fidelity premium shopping experience inspired by modern e-commerce layouts, featuring responsive search, detailed reviews, elegant cart/checkout systems, and active order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
